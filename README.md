@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Michael Douglas 👋
 Estudante de Análise e Desenvolvimento de Sistemas na Fatec Sorocaba, apaixonado por tecnologia e em busca de novos desafios.
-- 📖 [Fatec Sorocaba]([http://exemplo.com/](http://www.fatecsorocaba.edu.br/))
+- 📖 [Fatec Sorocaba](http://www.fatecsorocaba.edu.br/)
 - 💻 Especializando em Programação WEB
 - ⚡ Fato Divertido: Eu também sou um padeiro 🧁 🍞
 
