@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na Fatec Sorocaba, apaixonad
 - 💻 Especializando em Programação WEB
 - ⚡ Fato Divertido: Eu também sou um padeiro 🧁 🍞
 
-## Contatos
+## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-douglas-nascimento-de-lima-808527245/)
 
 ## Estatísticas
@@ -27,6 +27,9 @@ Estudante de Análise e Desenvolvimento de Sistemas na Fatec Sorocaba, apaixonad
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=whitee">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 <div style="display: inline_block"><br>
